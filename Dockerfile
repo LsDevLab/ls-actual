@@ -1,1 +1,1 @@
-FROM actualbudget/actual-server:latest
+FROM lsdevlabdocker/ls-actual-app:latest
