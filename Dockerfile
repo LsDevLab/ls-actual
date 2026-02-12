@@ -1,1 +1,1 @@
-FROM lsdevlabdocker/ls-actual-app:0.0.21
+FROM lsdevlabdocker/ls-actual-app:0.0.22
